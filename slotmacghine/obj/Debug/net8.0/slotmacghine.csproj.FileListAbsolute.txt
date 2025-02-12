@@ -1,0 +1,14 @@
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\bin\Debug\net8.0\slotmacghine.exe
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\bin\Debug\net8.0\slotmacghine.deps.json
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\bin\Debug\net8.0\slotmacghine.runtimeconfig.json
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\bin\Debug\net8.0\slotmacghine.dll
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\bin\Debug\net8.0\slotmacghine.pdb
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\obj\Debug\net8.0\slotmacghine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\obj\Debug\net8.0\slotmacghine.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\obj\Debug\net8.0\slotmacghine.AssemblyInfo.cs
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\obj\Debug\net8.0\slotmacghine.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\obj\Debug\net8.0\slotmacghine.dll
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\obj\Debug\net8.0\refint\slotmacghine.dll
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\obj\Debug\net8.0\slotmacghine.pdb
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\obj\Debug\net8.0\slotmacghine.genruntimeconfig.cache
+C:\Users\aless\source\repos\slotmacghine\slotmacghine\obj\Debug\net8.0\ref\slotmacghine.dll
